@@ -1,0 +1,7 @@
+sprite=sprDT_Jumpscare
+visible=1
+solid=0
+persistent=0
+depth=-1500
+parent=
+mask=

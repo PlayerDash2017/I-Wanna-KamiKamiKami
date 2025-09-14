@@ -1,0 +1,7 @@
+sprite=sprRandFieldController
+visible=0
+solid=0
+persistent=0
+depth=50
+parent=objRandController
+mask=

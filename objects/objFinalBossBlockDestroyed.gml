@@ -1,0 +1,24 @@
+#define Create_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+Spd = random_range(3,6);
+speed = Spd;
+direction = irandom(360);
+gravity = 0.2;
+#define Step_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=603
+applies_to=self
+*/
+image_angle += sign(hspeed)*Spd;
+#define Other_0
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=203
+applies_to=self
+invert=0
+*/

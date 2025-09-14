@@ -1,0 +1,20 @@
++Title
+	|fTitle
+	|fTitleSmall
++Default
+	|fDefaultLarge
+	|fDefaultBig
+	|fDefaultMedium
+	|fDefaultSmall
++Rand
+	|fNewTitle
+	|fTitleCard
+	|fSans12
+	|fScoreAttack
+	|fEnding01
+	|fEnding02
+	|fEnding03
+	|fGeezer
+	|fNoSkip
+	|fReleaseDate
+	|fTeaser

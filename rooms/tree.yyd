@@ -1,0 +1,89 @@
+|rInit
++Menu
+	|rTitle
+	|rMenu
+	|rOptions
++Game
+	|rSample
+	|rSampleTriggers
+	|rSampleBoss
+	|rSampleClear
+	|rTemplate
+	|rOldTeaser
+	|rIntro
++Rand
+	|rRandTemplate
+	+Stage 1
+		|rChokochoko
+		|rGGM
+		|rScoreAttack
+		|rConquerBlowGame
+		|rSalt
+		|rPlus
+		|rEnjoyTheGame
+		|rSecondChallenger
+		|rMiddle
+		|rFangame
+		|rBoss1
+	+Stage 2
+		|rTribute
+		|rBestGuy
+		|rDarkBlue
+		|rFortressReturn
+		|rWinterVacation
+		|rMysteriousHouse
+		|rParty
+		|rExperience
+		|rYellowStar
+		|rGraduateFromDT
+		|rBoss2
+	+Stage 3
+		|rGreeeen
+		|rRunTheTerminal
+		|rMagicGirl
+		|rGreenMoon
+		|rYassan
+		|rGuy
+		|rRukimin
+		|rTimeMachine
+		|rHeavenTrap2
+		|r500
+		|rBoss3
+	+Stage 4
+		|rSeeTheMoon
+		|rCQ
+		|rCoolGuy
+		|rSkyclad
+		|rBucho
+		|rKillTheGuy
+		|rHeavenTrap1
+		|rPlayWHG
+		|rGB
+		|rPhantom
+		|rBoss4
+	+Stage 5
+		|rPYF
+		|rSadist
+		|rBoshy
+		|rGR
+		|rBruteOfAMan
+		|rBoss5
+	+Final Stage
+		|rMStage
+		|rFinalBossA
+		|rFinalBossSalt
+		|rFinalBossDarkBlue
+		|rFinalBossB
+		|rFinalBossRTT
+		|rFinalBossCQ
+		|rFinalBossC
+		|rFinalBossCheckpoint
+		|rFinalBossFalling
+		|rFinalBossCutscene
+	+Misc
+		|rKamilia1
+		|rEnding
+		|rPortalRoom
+		|rSkycladTroll
+		|rTeaser
+		|rReleaseDate

@@ -1,0 +1,7 @@
+sprite=sprGB_Kami2Title
+visible=1
+solid=0
+persistent=0
+depth=-100
+parent=
+mask=
