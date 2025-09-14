@@ -8,5 +8,5 @@ Official prequel to **Kami2**, but now open source, a *randrandrand-like* game b
 It includes a system for generating random objects, bosses, and a bunch of gimmicks.
 
 ## Download game
-**Mediafire:** https://www.mediafire.com/file/ij9w43gmkgd7zt2/I_Wanna_KamiKamiKami.rar/file
-**Google Drive:** https://drive.google.com/file/d/1QJExh8a-CY7dxLthdWeGPmjaIMrE4dvd/view?usp=drive_link
+**Mediafire**: https://www.mediafire.com/file/ij9w43gmkgd7zt2/I_Wanna_KamiKamiKami.rar/file  
+**Google Drive**: https://drive.google.com/file/d/1QJExh8a-CY7dxLthdWeGPmjaIMrE4dvd/view?usp=drive_link  
